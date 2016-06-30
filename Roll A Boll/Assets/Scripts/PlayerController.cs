@@ -11,6 +11,7 @@ public class PlayerController : MonoBehaviour {
 	public Text countText, winText;
 //	public AudioClip pointSound;
 	public AudioSource audio1, audio2;
+	public GameObject Smoke;
 
 	// Use this for initialization
 	void Start () {
@@ -33,12 +34,14 @@ public class PlayerController : MonoBehaviour {
 
 	void OnTriggerEnter(Collider other){
 		if (other.gameObject.CompareTag ("Pick Up")) {
-//			GameObject s = (GameObject)Instantiate(Smoke, transform.position, Quarternion.identity);
-//			Destroy (s, 0.5);
+//			GameObject s = (GameObject)Instantiate(Smoke, transform.position, transform.rotation);
+//			Destroy (s,3);
 
 			count += 1;
 			SetCountText ();
 			audio1.Play();
+
+
 
 		}
 	}

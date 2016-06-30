@@ -1,0 +1,17 @@
+/Users/DueMBA/Desktop/github/Unity/Cardboard/Temp/bin/Debug/UnityEngine.dll
+/Users/DueMBA/Desktop/github/Unity/Cardboard/Temp/bin/Debug/UnityEditor.dll
+/Users/DueMBA/Desktop/github/Unity/Cardboard/Temp/bin/Debug/UnityEngine.Networking.dll
+/Users/DueMBA/Desktop/github/Unity/Cardboard/Temp/bin/Debug/UnityEngine.UI.dll
+/Users/DueMBA/Desktop/github/Unity/Cardboard/Temp/bin/Debug/Mono.Cecil.dll
+/Users/DueMBA/Desktop/github/Unity/Cardboard/Temp/bin/Debug/Unity.SerializationLogic.dll
+/Users/DueMBA/Desktop/github/Unity/Cardboard/Temp/bin/Debug/Unity.DataContract.dll
+/Users/DueMBA/Desktop/github/Unity/Cardboard/Temp/bin/Debug/ICSharpCode.NRefactory.dll
+/Users/DueMBA/Desktop/github/Unity/Cardboard/Temp/bin/Debug/Unity.UNetWeaver.dll
+/Users/DueMBA/Desktop/github/Unity/Cardboard/Temp/bin/Debug/Unity.UNetWeaver.dll.mdb
+/Users/DueMBA/Desktop/github/Unity/Cardboard/Temp/bin/Debug/Unity.CecilTools.dll
+/Users/DueMBA/Desktop/github/Unity/Cardboard/Temp/bin/Debug/Mono.Cecil.Pdb.dll
+/Users/DueMBA/Desktop/github/Unity/Cardboard/Temp/bin/Debug/Mono.Cecil.Mdb.dll
+/Users/DueMBA/Desktop/github/Unity/Cardboard/Temp/bin/Debug/Assembly-CSharp.dll.mdb
+/Users/DueMBA/Desktop/github/Unity/Cardboard/Temp/bin/Debug/Assembly-CSharp.dll
+/Users/DueMBA/Desktop/github/Unity/Cardboard/obj/Debug/Assembly-CSharp.dll
+/Users/DueMBA/Desktop/github/Unity/Cardboard/obj/Debug/Assembly-CSharp.dll.mdb
